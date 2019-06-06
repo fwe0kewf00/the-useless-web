@@ -12,6 +12,7 @@ function uselessWebButton( button, popup ) {
 	var sitesList = [
 		['http://heeeeeeeey.com/',                                    false, 7],
 		['http://thatsthefinger.com/',                                false, 7],
+		['https://cow.vg',                                            false, 7],
 		['http://cant-not-tweet-this.com/',                           false, 7],
 		['http://eelslap.com/',                                       false, 5],
 		['http://www.staggeringbeauty.com/',                          false, 7],
